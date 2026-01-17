@@ -12,3 +12,9 @@ function doSomethingElse(arg) {
 }
 
 doSomethingElse();
+
+function createUser(name, age) {
+  return { name, age };
+}
+
+createUser("John");
