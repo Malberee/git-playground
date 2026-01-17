@@ -6,3 +6,9 @@ function doSomething(arg) {
 }
 
 doSomething("arg");
+
+function doSomethingElse(arg) {
+  console.log(arg);
+}
+
+doSomethingElse();
