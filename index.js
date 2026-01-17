@@ -18,3 +18,5 @@ function createUser(name, age) {
 }
 
 createUser("John");
+
+const API_KEY = 'API_KEY'
